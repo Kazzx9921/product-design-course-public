@@ -5,7 +5,7 @@
 ## 開始使用
 
 ```bash
-git clone https://github.com/kazen/product-design-course-public.git my-landing-page
+git clone https://github.com/Kazzx9921/product-design-course-public.git my-landing-page
 cd my-landing-page
 npm install
 npm run dev
